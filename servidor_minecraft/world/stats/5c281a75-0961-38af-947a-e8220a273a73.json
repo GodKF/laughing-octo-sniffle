@@ -1,0 +1,57 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 10,
+      "minecraft:tall_grass": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:birch_log": 7,
+      "minecraft:oak_log": 1,
+      "minecraft:stone": 8
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 6,
+      "minecraft:time_since_rest": 13547,
+      "minecraft:walk_one_cm": 35202,
+      "minecraft:leave_game": 9,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 181,
+      "minecraft:damage_taken": 377,
+      "minecraft:damage_dealt": 45,
+      "minecraft:play_time": 70275,
+      "minecraft:jump": 88,
+      "minecraft:time_since_death": 13525,
+      "minecraft:sprint_one_cm": 14809,
+      "minecraft:fall_one_cm": 5856,
+      "minecraft:swim_one_cm": 522,
+      "minecraft:total_world_time": 70275,
+      "minecraft:fly_one_cm": 19820,
+      "minecraft:walk_on_water_one_cm": 123,
+      "minecraft:crouch_one_cm": 2432,
+      "minecraft:sneak_time": 1086,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:salmon": 1,
+      "minecraft:oak_log": 1,
+      "minecraft:cobblestone": 10,
+      "minecraft:birch_log": 7,
+      "minecraft:crafting_table": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_planks": 4,
+      "minecraft:birch_planks": 28,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 2
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 5,
+      "minecraft:crafting_table": 4,
+      "minecraft:wooden_pickaxe": 8,
+      "minecraft:stone_pickaxe": 4
+    }
+  },
+  "DataVersion": 4671
+}

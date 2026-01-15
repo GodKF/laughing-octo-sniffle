@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.135.103.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1768489669281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768488189585
+  login: 1768489199398
+money: '0'
+last-account-name: MrGameBlaze
+logoutlocation:
+  world: 379b5726-dbdd-4872-8360-b8617a73cada
+  world-name: world
+  x: 3.2351843638859323
+  y: 70.0
+  z: 8.788978617363655
+  yaw: 47.08251953125
+  pitch: 30.30239486694336
+lastlocation:
+  world: 379b5726-dbdd-4872-8360-b8617a73cada
+  world-name: world
+  x: -53.06383796207076
+  y: 66.0
+  z: 48.528849935057636
+  yaw: 97.924560546875
+  pitch: 11.631163597106934
